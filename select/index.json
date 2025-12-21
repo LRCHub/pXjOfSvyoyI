@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ナハト",
+  "base_artist": "indigo la End",
+  "createdAt": "2025-12-21T04:11:46.727326Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイネ・クライネ・ナハト・ミュージック",
+      "artist": "L-R",
+      "has_synced": true,
+      "path": "select/01_アイネ・クライネ・ナハト・ミュージック_L-R.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アイネ・クライネ・ナハト・ミュージック",
+      "artist": "L⇔R",
+      "has_synced": false,
+      "path": "select/02_アイネ・クライネ・ナハト・ミュージック_L⇔R.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ナハト",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/03_ナハト_indigo_la_End.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ナハト  / Nacht",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/04_ナハト___Nacht_indigo_la_End.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アイネ･クライネ･ナハト･ミュージック",
+      "artist": "L⇔R",
+      "has_synced": true,
+      "path": "select/05_アイネ・クライネ・ナハト・ミュージック_L⇔R.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナハト",
+      "artist": "indigo la End",
+      "has_synced": false,
+      "path": "select/pl_01_ナハト_indigo_la_End.txt"
+    }
+  ]
+}
